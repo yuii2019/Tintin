@@ -1,2 +1,1 @@
-# Tintin
-dog
+TinDog Starting Files
